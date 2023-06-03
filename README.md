@@ -1,1 +1,1 @@
-# rainfal-runoff-model
+# rainfall-runoff model using LSTM
